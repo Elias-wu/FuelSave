@@ -1,0 +1,15 @@
+workflows:
+  ios-workflow:
+    name: iOS build
+    environment:
+      flutter: stable
+    scripts:
+      - name: Install dependencies
+        script: |
+          flutter pub get
+      - name: Ensure iOS project exists
+        script: |
+          flutter create --platforms=ios .
+      - name: Build iOS
+        script: |
+          flutter build ios --no-codesign
