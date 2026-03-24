@@ -13,3 +13,6 @@ workflows:
       - name: Build iOS
         script: |
           flutter build ios --no-codesign
+      - name: Run on iOS Simulator
+        script: |
+          flutter drive --target=integration_test/app_test.dart --device "iOS Simulator"

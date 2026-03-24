@@ -50,6 +50,12 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "file",
+      "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "fixnum",
       "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/fixnum-1.1.1",
       "packageUri": "lib/",
@@ -58,6 +64,12 @@
     {
       "name": "flutter",
       "rootUri": "file:///C:/Users/elias/Desktop/FuelSave/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "flutter_driver",
+      "rootUri": "file:///C:/Users/elias/Desktop/FuelSave/flutter/packages/flutter_driver",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -76,6 +88,12 @@
     {
       "name": "flutter_web_plugins",
       "rootUri": "file:///C:/Users/elias/Desktop/FuelSave/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
+      "name": "fuchsia_remote_debug_protocol",
+      "rootUri": "file:///C:/Users/elias/Desktop/FuelSave/flutter/packages/fuchsia_remote_debug_protocol",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -126,6 +144,12 @@
       "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "integration_test",
+      "rootUri": "file:///C:/Users/elias/Desktop/FuelSave/flutter/packages/integration_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
     },
     {
       "name": "leak_tracker",
@@ -212,10 +236,22 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "platform",
+      "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "plugin_platform_interface",
       "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "process",
+      "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/process-5.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
     },
     {
       "name": "sky_engine",
@@ -246,6 +282,12 @@
       "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.4.1",
       "packageUri": "lib/",
       "languageVersion": "3.1"
+    },
+    {
+      "name": "sync_http",
+      "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/sync_http-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "term_glyph",
@@ -288,6 +330,12 @@
       "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "webdriver",
+      "rootUri": "file:///C:/Users/elias/AppData/Local/Pub/Cache/hosted/pub.dev/webdriver-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
     },
     {
       "name": "fuelsave",
